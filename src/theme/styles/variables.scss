@@ -1,0 +1,18 @@
+:root {
+  --primary-background-color: #FCFCFC;
+  --secondary-background-color: #F3F4F7;
+  --primary-text-color: #012345;
+  --secondary-text-color: #677b8f;
+
+  --grey-light: #FCFCFC;
+  --blue: #4959FF;
+  --pink: #F84AB3;  
+}
+
+[data-theme="darkMode"] {
+  --primary-background-color: #012345;
+  --secondary-background-color: #011C37;
+  --text-color: #FCFCFC;   
+  --primary-text-color: #FCFCFC;
+  --secondary-text-color: #99A7B5;
+}
